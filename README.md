@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **oa.rodriguezramirez@gmail.com**
+- 📫 How to reach me **NULL*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
